@@ -1,6 +1,6 @@
 # SYNOPSIS
 
-Swat tests for mongodb http interface. 
+Swat tests for [mongodb http interface](https://docs.mongodb.org/ecosystem/tools/http-interfaces/). 
 
 This is simple test suit could be used in various CI processes, f.e. when running tests in Travis.
 
