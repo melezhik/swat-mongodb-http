@@ -6,7 +6,6 @@ This is simple test suit could be used in various CI processes, f.e. when runnin
 
 # INSTALL
 
-    echo swat-mongodb-http https://github.com/melezhik/swat-mongodb-http.git >> ~/sparrow/sparrow.list
     sparrow plg install swat-mongodb-http
 
 # COPYRIGHT
