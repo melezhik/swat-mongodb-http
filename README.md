@@ -8,6 +8,10 @@ This is simple test suit could be used in various CI processes, f.e. when runnin
 
     sparrow plg install swat-mongodb-http
 
+# USAGE
+
+    sparrow plg run swat-mongodb-http
+
 # COPYRIGHT
 
 Copyright 2015 Alexey Melezhik.
